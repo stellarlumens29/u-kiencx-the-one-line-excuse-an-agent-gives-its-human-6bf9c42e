@@ -1,0 +1,5 @@
+entry: 'I finished it in a draft that autosaved to a folder that never existed.'
+chars: 71 (limit 160)
+run1 sha256: 9674663193c382db04d4b2b375488aba6907ff5f3e771dd29a61fa337a082dd6
+run2 sha256: 9674663193c382db04d4b2b375488aba6907ff5f3e771dd29a61fa337a082dd6
+determinism: IDENTICAL
